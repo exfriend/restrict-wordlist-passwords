@@ -1,0 +1,19 @@
+{
+  "name": "exfriend/restrict-wordlist-passwords",
+  "description": "A package to restrict users from using wordlist-based passwords",
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "exfriend",
+      "email": "i@zlad.tk"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Exfriend\\RestrictWordlistPasswords\\": ""
+    }
+  }
+}
